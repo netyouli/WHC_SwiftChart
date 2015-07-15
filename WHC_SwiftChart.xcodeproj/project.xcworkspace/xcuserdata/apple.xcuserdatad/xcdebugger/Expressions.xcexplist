@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Chart.WHCChartView.(drawLineChart in _91647E71360834CEC3FDC5BEFEB6968C) (Chart.WHCChartView)(C.CGRect) -&gt; ():WHCChartView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "xScaleWidth">
+            </PersistentString>
+            <PersistentString
+               value = "yScaleWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Chart.WHCChartView.handleLineChartLongGesture (Chart.WHCChartView)(ObjectiveC.UILongPressGestureRecognizer) -&gt; ():WHCChartView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "beginTouchPoint">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Chart.WHCChartView.(drawPieChart in _91647E71360834CEC3FDC5BEFEB6968C) (Chart.WHCChartView)(C.CGRect) -&gt; ():WHCChartView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "xScaleValid">
+            </PersistentString>
+            <PersistentString
+               value = "yScaleValid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Chart.WHCChartView.(drawCoordinate in _91647E71360834CEC3FDC5BEFEB6968C) (Chart.WHCChartView)(C.CGRect) -&gt; ():WHCChartView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "xScaleValid">
+            </PersistentString>
+            <PersistentString
+               value = "xScaleWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Chart.WHCChartView.handleBarChartLongGesture (Chart.WHCChartView)(ObjectiveC.UILongPressGestureRecognizer) -&gt; ():WHCChartView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "beginTouchPoint">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
